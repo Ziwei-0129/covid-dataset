@@ -70,7 +70,7 @@ Ongoing Covid-19 Data in the United States from The New York Times
 <br />
 
 
-# Example Visualization on Covid-19 Data
+# Example Visualizations on Covid-19 Data
 
 
 Visualization on Map
@@ -101,12 +101,6 @@ Visualization on Chart
 - [COVID-19 coronavirus infographic datapack (Information is Beautiful)](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)
 
 - [COVID-19 data visualisation (International SOS)](https://pandemic.internationalsos.com/2019-ncov/covid-19-data-visualisation)
-
-
-
-
-
-
 
 
 
