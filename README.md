@@ -1,4 +1,4 @@
-# Colleectioon of Coronavirus (Covid-19) Data 
+# Colection of Coronavirus (Covid-19) Data 
 
 This repository collects ....
 
