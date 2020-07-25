@@ -37,7 +37,7 @@ ccc
 
 Visualization on Map
 ------
-- [Heat Map](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons)
+- [Coronavirus COVID-19 global cases (Johns Hopkins)](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 
 
