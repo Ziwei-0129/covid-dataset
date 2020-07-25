@@ -39,7 +39,7 @@ Visualization on Map
 ------
 - [Coronavirus COVID-19 global cases (Johns Hopkins)](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) 
 
-- [U.S. Spread of COVID-19 Maps and Analytics](https://uscovid-19map.org)
+- [U.S. Spread of COVID-19 Maps and Analytics (SharedGeo)](https://uscovid-19map.org)
 
 - [Novel coronavirus (COVID-19) outbreak timeline map (HealthMap)](https://www.healthmap.org/covid-19/)
 
