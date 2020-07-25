@@ -32,7 +32,7 @@ ccc
 
 
 
-# Example Visualization on Covid-19 Dataset
+# Example Visualization on Covid-19 Data
 
 
 Visualization on Map
