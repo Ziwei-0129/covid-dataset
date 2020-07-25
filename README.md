@@ -37,7 +37,7 @@ ccc
 
 Visualization on Map
 ------
-- [Coronavirus COVID-19 global cases (Johns Hopkins)](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+- [Coronavirus COVID-19 global cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) (Johns Hopkins)
 
 
 
