@@ -60,7 +60,9 @@ Visualization on Chart
 
 - [COVID-19 coronavirus tracker (Kaiser Family Foundation)](https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/)
 
+- [Covid-19 coronavirus infographic datapack](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)
 
+- [Covid-19 data visualisation (International SOS)](https://pandemic.internationalsos.com/2019-ncov/covid-19-data-visualisation)
 
 
 
