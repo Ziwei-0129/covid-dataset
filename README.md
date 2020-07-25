@@ -1,7 +1,8 @@
 # Colection of Coronavirus (Covid-19) Data 
 
 
-## Kaggle daily updated dataset across the globe
+Kaggle daily updated dataset across the globe
+------
 
 [Original data source](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
 
@@ -41,6 +42,28 @@ Visualization on Map
 - [U.S. Spread of COVID-19 Maps and Analytics](https://uscovid-19map.org)
 
 - [Novel coronavirus (COVID-19) outbreak timeline map (HealthMap)](https://www.healthmap.org/covid-19/)
+
+- [Novel Coronavirus (COVID-19) Infection Map (University of Washington)](https://hgis.uw.edu/virus)
+
+- [COVID-19 surveillance dashboard (University of Virginia)](https://nssac.bii.virginia.edu/covid-19/dashboard/)
+
+- [Novel coronavirus (COVID-19) situation dashboard (WHO)](https://covid19.who.int/)
+
+- [COVID-19 coronavirus tracker (Kaiser Family Foundation)](https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/)
+
+- [Mapping the novel coronavirus pandemic (Esri StoryMaps)](https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0)
+
+
+Visualization on Chart
+------
+- [The COVID tracking project (COVID Tracking)](https://covidtracking.com/data)
+
+- [COVID-19 coronavirus tracker (Kaiser Family Foundation)](https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/)
+
+
+
+
+
 
 
 
