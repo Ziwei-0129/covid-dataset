@@ -1,5 +1,6 @@
 # Colection of Coronavirus (Covid-19) Data 
 
+<br />
 
 Kaggle daily updated dataset across the globe
 ------
