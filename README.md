@@ -8,6 +8,7 @@ Kaggle daily updated dataset across the globe
 >
 >Data category: Country
 >   country wise no. of cases sorted by date (full_grouped.csv)
+>
 >   Latest country level no. of cases (countrywiselatest.csv)
 >
 >Data attribute: Confirmed, Deaths, Recovered etc.
