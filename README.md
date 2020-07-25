@@ -2,7 +2,7 @@
 
 <br />
 
-Kaggle daily updated dataset across the globe
+Kaggle Daily Updated Dataset Across the Globe
 ------
 
 [Original data source on Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
@@ -11,7 +11,7 @@ Kaggle daily updated dataset across the globe
 
 **Data organized by**: country, date
 
-  - country wise no. of cases sorted by date (full_grouped.csv)
+  - Country wise no. of cases sorted by date (full_grouped.csv)
 
   - Latest country level no. of cases (countrywiselatest.csv)
 
