@@ -41,9 +41,10 @@ Covid-19 Data in the United States from The New York Times
   
   - [Excess Deaths During the Coronavirus Pandemic](https://github.com/nytimes/covid-19-data/blob/master/excess-deaths/deaths.csv) 
 
-  - []()
+  - [Live/U.S. State-Level Data](https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv)
 
-  - []()
+  - [Live/U.S. County-Level Data](https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv)
+  
   
 **Raw Data**: 
   
@@ -52,6 +53,7 @@ Covid-19 Data in the United States from The New York Times
   - [U.S. State-Level Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv) (date,state,fips,cases,deaths)
 
   - [U.S. County-Level Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv) (date,county,state,fips,cases,deaths)
+
 
 <br />
 <br />
