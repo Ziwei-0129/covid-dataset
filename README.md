@@ -15,13 +15,13 @@ Kaggle daily updated dataset across the globe
 
 [Original data source](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
 
-Temporal coverage: from 2020-01-21
+**Temporal coverage**: from 2020-01-21
 
-Spatial coverage: World Wide
+**Spatial coverage**: World Wide
 
-Updates: Daily
+**Updates**: Daily
 
-Source: [WHO siituation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
+**Source**: [WHO siituation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 
 ccc
 ------
