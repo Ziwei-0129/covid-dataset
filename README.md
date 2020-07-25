@@ -7,7 +7,7 @@ Kaggle Daily Updated Dataset Across the Globe
 
 [Original data source on Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
 
-**Data format**: csv table
+**Data format**: csv 
 
 **Data organized by**: country, date
 
