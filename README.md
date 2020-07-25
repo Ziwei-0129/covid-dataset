@@ -6,7 +6,7 @@ Kaggle daily updated dataset across the globe
 >
 >Data format: csv table
 >
->Data category: Country
+>Data category: Country, Date
 >
 >   - country wise no. of cases sorted by date (full_grouped.csv)
 >
