@@ -15,7 +15,7 @@ Kaggle Daily Updated Dataset Across the Globe
 
   - Latest country level no. of cases (countrywiselatest.csv)
 
-**Data attribute**: Confirmed, Deaths, Recovered, etc.
+**Data attribute**: confirmed, deaths, recovered, etc.
 
 
 **Temporal coverage**: from 2020-01-21
