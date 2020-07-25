@@ -30,7 +30,7 @@ Kaggle daily updated dataset across the globe
 
 
 
-Covid-19 Data in the United States from The New York Times  
+Ongoing Covid-19 Data in the United States from The New York Times  
 ------
 
 [Original data source on GitHub](https://github.com/nytimes/covid-19-data)
@@ -41,10 +41,11 @@ Covid-19 Data in the United States from The New York Times
   
   - [Excess Deaths During the Coronavirus Pandemic](https://github.com/nytimes/covid-19-data/blob/master/excess-deaths/deaths.csv) 
 
-  - [Live/U.S. State-Level Data](https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv)
+  - [U.S. State-Level Live Data](https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv)
 
-  - [Live/U.S. County-Level Data](https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv)
+  - [U.S. County-Level Live Data](https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv)
   
+**Data attribute**: cases, deaths, confirmed_cases, confirmed_deaths, probable_deaths
   
 **Raw Data**: 
   
@@ -53,6 +54,15 @@ Covid-19 Data in the United States from The New York Times
   - [U.S. State-Level Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv) (date,state,fips,cases,deaths)
 
   - [U.S. County-Level Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv) (date,county,state,fips,cases,deaths)
+
+
+**Temporal coverage**: from 2020-01-21
+
+**Spatial coverage**: United States
+
+**Updates**: Daily
+
+**Official Visualizatioin**: [U.S. tracking page](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
 
 <br />
