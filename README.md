@@ -25,7 +25,9 @@ Kaggle daily updated dataset across the globe
 
 **Source**: [WHO situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 
-
+<br />
+<br />
+<br />
 
 Covid-19 Data in the United States from The New York Times  
 ------
