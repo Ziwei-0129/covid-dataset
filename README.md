@@ -32,10 +32,26 @@ Kaggle daily updated dataset across the globe
 
 Covid-19 Data in the United States from The New York Times  
 ------
+
 [Original data source on GitHub](https://github.com/nytimes/covid-19-data)
 
+**Data format**: csv 
 
+**Data organized by**: country, city, date
+  
+  - [Excess Deaths During the Coronavirus Pandemic](https://github.com/nytimes/covid-19-data/blob/master/excess-deaths/deaths.csv) 
 
+  - []()
+
+  - []()
+  
+**Raw Data**: 
+  
+  - [U.S. Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv) (date,cases,deaths)
+
+  - [U.S. State-Level Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv) (date,state,fips,cases,deaths)
+
+  - [U.S. County-Level Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv) (date,county,state,fips,cases,deaths)
 
 <br />
 <br />
