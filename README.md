@@ -1,7 +1,7 @@
 # Colection of Coronavirus (Covid-19) Data 
 
 
-Kaggle daily updated dataset across the globe
+## Kaggle daily updated dataset across the globe
 
 [Original data source](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
 
