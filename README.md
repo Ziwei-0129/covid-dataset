@@ -1,9 +1,8 @@
 # Colection of Coronavirus (Covid-19) Data 
 
 
-Number of Confirmed, Death and Recovered cases every day across the globe
+Kaggle daily updated dataset across the globe
 ------
->
 >
 >Data format: csv table
 >
@@ -12,8 +11,10 @@ Number of Confirmed, Death and Recovered cases every day across the globe
 >   Latest country level no. of cases (countrywiselatest.csv)
 >
 >Data attribute: Confirmed, Deaths, Recovered etc.
+>
+>Original [data source](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
 
-
+>
 >Temporal coverage: from 2020-01-21
 >
 >Spatial coverage: World Wide
