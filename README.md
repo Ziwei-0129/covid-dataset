@@ -3,15 +3,15 @@
 
 Kaggle daily updated dataset across the globe
 ------
-Data format: csv table
+**Data format**: csv table
 
-Data organized by: country, date
+**Data organized by**: country, date
 
 - country wise no. of cases sorted by date (full_grouped.csv)
 
 - Latest country level no. of cases (countrywiselatest.csv)
 
-Data attribute: Confirmed, Deaths, Recovered, etc.
+**Data attribute**: Confirmed, Deaths, Recovered, etc.
 
 [Original data source](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
 
