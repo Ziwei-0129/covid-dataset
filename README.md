@@ -4,7 +4,7 @@
 Kaggle daily updated dataset across the globe
 ------
 
-[Original data source](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
+[Original data source on Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=country_wise_latest.csv)
 
 **Data format**: csv table
 
@@ -26,8 +26,12 @@ Kaggle daily updated dataset across the globe
 **Source**: [WHO situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 
 
-ccc
+
+Covid-19 Data in the United States from The New York Times  
 ------
+[Original data source on GitHub](https://github.com/nytimes/covid-19-data)
+
+
 
 
 
